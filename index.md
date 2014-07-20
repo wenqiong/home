@@ -15,4 +15,5 @@ title: about
         <li>3. <a href="{{ site.wikiurl }}/old/various/fm_xmtr.html">FM xtmr</a>: A low-power FM transmitter design from bottom up based on MAX2606</li>
 
   </ul>
+  <p>I can be found at <a href="http://www.github.com">GitHub</a>, <a href="http://www.twitter.com">Twitter</a>, or <a href="http://www.linkedin.com">LinkedIn</a>. You can also use this <a href="http://lijun.xyz/contact">form</a> for the first contact.</p>
 </div>
