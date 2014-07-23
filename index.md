@@ -1,6 +1,7 @@
 ---
 layout: default
 title: about
+published: true
 ---
 
 <div id="home">
@@ -16,5 +17,5 @@ title: about
         <li><a href="https://github.com/lijunxyz/tikregnc">tikregnc</a>: A MATLAB implementation of Tikhonov regularization with non-negativity constraints </li>
 
   </ul>
-  <p>I can be found at <a href="http://www.github.com">GitHub</a>, <a href="http://www.twitter.com">Twitter</a>, or <a href="http://www.linkedin.com">LinkedIn</a>. You can also use this <a href="http://lijun.xyz/contact">form</a> for the first contact.</p>
+  <p>I can be found at <a href="https://www.github.com/lijunxyz">GitHub</a>, <a href="https://www.twitter.com/lijunxyz">Twitter</a>, or <a href="http://www.linkedin.com/in/lijunxyz">LinkedIn</a>. You can also use this <a href="http://lijun.xyz/contact">form</a> for the first contact.</p>
 </div>
