@@ -18,6 +18,6 @@ published: true
         <li>A <a href="{{ site.wikiurl }}/misc-dust-detector-with-arduino-ble.html">Bluetooth Low Energy enabled Sharp dust sensor</a> based on nRF8001</li>
         <li>A <a href="{{ site.wikiurl }}/old/various/fm_xmtr.html">low-power FM transmitter</a> designed from bottom up based on MAX2606</li>
         <li><a href="https://github.com/lijunxyz/tikregnc">tikregnc</a>: A MATLAB implementation of Tikhonov regularization with non-negativity constraints </li>
-        <li>Finally, this is <a href="http://libra.virginia.edu/catalog/libra-oa:8214">my dissertation</a> if the topic sounds interesting enough for you.</li>
+        <li>Finally, this is <a href="http://libra.virginia.edu/catalog/libra-oa:8214">my dissertation</a> if the topic sounds interesting enough to you.</li>
   </ul>
 </div>
