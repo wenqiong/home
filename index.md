@@ -8,6 +8,8 @@ published: true
 
   <p>Welcome to Lijun Li's webspace! </p>
   
+  <p>I got my PhD degree in Electrical and Computer Engineering from <a href="http://www.virginia.edu/">University of Virginia</a>. I can be spotted at <a href="https://www.github.com/lijunxyz">GitHub</a>, <a href="https://www.twitter.com/lijunxyz">Twitter</a>, <a href="http://www.linkedin.com/in/lijunxyz">LinkedIn</a>, or somewhere with my bike or running shoes. You can also use this <a href="http://lijun.xyz/contact">form</a> for the first contact.</p>
+
   <p>As a curious researcher and engineer, my interest ranges from high-level software applications to circuit-level analog/RF circuits. Here are some highlights:</p>
 
   <ul>
@@ -18,5 +20,4 @@ published: true
         <li><a href="https://github.com/lijunxyz/tikregnc">tikregnc</a>: A MATLAB implementation of Tikhonov regularization with non-negativity constraints </li>
         <li>Finally, this is <a href="http://libra.virginia.edu/catalog/libra-oa:8214">my dissertation</a> if the topic sounds interesting enough for you.</li>
   </ul>
-  <p>I got my PhD degree in Electrical and Computer Engineering from <a href="http://www.virginia.edu/">University of Virginia</a>. I can be spotted at <a href="https://www.github.com/lijunxyz">GitHub</a>, <a href="https://www.twitter.com/lijunxyz">Twitter</a>, <a href="http://www.linkedin.com/in/lijunxyz">LinkedIn</a>, or somewhere with my bike or running shoes. You can also use this <a href="http://lijun.xyz/contact">form</a> for the first contact.</p>
 </div>
