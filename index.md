@@ -10,7 +10,7 @@ published: true
   
   <p>I got my PhD degree in Electrical and Computer Engineering from <a href="http://www.virginia.edu/">University of Virginia</a>. I can be spotted at <a href="https://www.github.com/lijunxyz">GitHub</a>, <a href="https://www.twitter.com/lijunxyz">Twitter</a>, <a href="http://www.linkedin.com/in/lijunxyz">LinkedIn</a>, or somewhere with my bike or running shoes. You can also use this <a href="http://lijun.xyz/contact">form</a> for the first contact.</p>
 
-  <p>As a curious researcher and engineer, my interest ranges from high-level software applications to circuit-level analog/RF circuits. Here are some highlights:</p>
+  <p>As a curious researcher and engineer, my interest spans from high-level software applications to embedded systems and analog/RF circuit design. Here are some highlights:</p>
 
   <ul>
         <li><a href="https://github.com/lijunxyz/instruments">Python libraries and scripts</a> on test automation and data processing for my EE photonics lab (<a href="http://www.ece.virginia.edu">ECE@UVa</a>)</li>
