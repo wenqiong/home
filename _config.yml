@@ -4,7 +4,7 @@ url: http://lijun.xyz
 # Variable site.baseurl is widely used for relative path naming in the posts
 baseurl: 
 wikiurl: http://wiki.lijun.xyz
-devblogurl: http://devblog.lijun.xyz
+devblogurl: http://blog.lijun.xyz
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore]
 # permalink: /blog/:year-:month-:day-:title.html
